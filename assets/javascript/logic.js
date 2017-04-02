@@ -55,6 +55,4 @@ $(document).ready(function() {
 // carousel slider
     $("#myCarousel").carousel();
 
-
-
 });

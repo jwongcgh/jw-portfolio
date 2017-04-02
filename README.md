@@ -7,8 +7,6 @@ Responsive front-end portfolio displaying information and contact links about au
 * [Link to my Portfolio](https://jw-portfolio.herokuapp.com/)
 
 
-*****
-
 #### Copyright
 
 Jorge Wong (C) 2017. All Rights Reserved.
