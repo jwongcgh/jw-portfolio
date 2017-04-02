@@ -278,17 +278,25 @@ h2:hover {
     left: 0;
     display: none;
     text-shadow: none;
-    font-size: 0.7em;
+    font-size: 0.6em;
     margin: 2px;
     padding: 5px;
-    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 7px;
+    /*padding: 0;*/
+    background-color: rgba(255, 255, 255, 0.75);
     color: darkblue;
     font-family: Garamond;
-    /*white-space: normal;*/
-    white-space: pre-line;
+    white-space: normal;
+    /*white-space: pre-line;*/
     /*white-space: keep-all;*/
     word-wrap: break-word;
-    text-align: justify;
+    text-align: center;
+    font-weight: bold;
+}
+
+p.description > span {
+    font-size: 1.2em;
+    text-shadow: 1px 1px lightblue;
 }
 
 .col-all:hover .proj-label .description {
