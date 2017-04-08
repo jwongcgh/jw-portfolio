@@ -219,7 +219,7 @@ a img.icons:hover {
     padding: 50px 0;
     background-size: cover;
     background-position: center center;
-    overflow: scroll;
+    /*overflow: scroll;*/
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
