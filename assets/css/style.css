@@ -111,7 +111,7 @@ body {
 /* about Me */
 
 #about {
-    padding: 105px 0;
+    padding: 125px 0;
 }
 
 .photo {
@@ -216,7 +216,8 @@ a img.icons:hover {
     color: #fff;
     background-color: #111;
     min-height: 600px;
-    padding: 50px 0;
+    /*padding: 50px 0;*/
+    padding: 25px 0;
     background-size: cover;
     background-position: center center;
     /*overflow: scroll;*/
